@@ -1,0 +1,7 @@
+C:\Users\HP>cd c:/xampp/htdocs/
+
+c:\xampp\htdocs>php Tugas1.php
+Nama : Aqshal Sayyidina
+NIM : 20090115
+Kelas : 4A
+c:\xampp\htdocs>
